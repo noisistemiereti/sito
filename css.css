@@ -7,7 +7,15 @@ body
 .immagine
 {
  float:left;
- width:400px;
-heigth:400px;
+ width:200px;
+ heigth:200px;
+ padding: 20px 20px 20px 0;
+} 
+
+.foto
+{
+ float:center;
+ width:1400px;
+ heigth:30px;
  padding: 0 20px 20px 0;
 } 
