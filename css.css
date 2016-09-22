@@ -1,24 +1,43 @@
 body
 {
-	backgroud-color:white;
+	backgroud-color:red;
+	
+}
+
+#corpo
+{
+
+margin: 0 200px 0 200px
+
+}
+#logo
+{
+margin:0 0 0 0px; 
+}
+
+#menu
+{
+	padding: 20px 0 0 0;
+	float: left ;
+	text-align: left;
+}
+
+li
+ {
+list-style-position: inside;
+display:block;
+width:150px;
+padding:4px 2px 4px 10px;
+font-size:1.1em;
+font-weight:bold;
+background-color:white;
+color:red;
+border:1px solid #ffffff;
+float: left ;
+text-align: left;
 }
 
 
-.immagine
-{
- float:left;
- width:200px;
- heigth:200px;
- padding: 20px 80px 80px 80px;
-} 
 
-.foto
-{
-position:absolute;
-top:80%;
-left:50%;
-margin-top:-250px;
-margin-left:-450px;
-width:900px;
-height:500px;
-background: #3FA9F5;}
+
+
